@@ -5,22 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopswizard&label=Profile%20views&color=0e75b6&style=flat" alt="devopswizard" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🔭 I’m currently working on [Azure Cloud | DevOps](https://www.youtube.com/watch?v=10jm7Waan8M&list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR&pp=iAQB)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **Azure Cloud & Devops in Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devopswizard](https://github.com/devopswizard)
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **temelkarabacak@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/temelkarabacak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temelkarabacak" height="30" width="40" /></a>
+<a href="https://x.com/karabacaktemel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.stwittervg" alt="karabacaktemel" height="30" width="40" /></a>
+
   
 </p>
 
