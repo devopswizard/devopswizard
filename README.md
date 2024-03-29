@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Temel Karabacak</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/devopswizard/devopswizard/main/banner-main.jpg"> </div>
 <h3 align="center">An enthusiastic and dynamic IT professional with a passion for learning and research. Primarily focused on AWS Cloud, I'm actively expanding into Azure. I have hands-on experience with DevOps tools and enjoy practical exercises.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devopswizard/devopswizard/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopswizard&label=Profile%20views&color=0e75b6&style=flat" alt="devopswizard" /> </p>
 
