@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devopswizard](https://github.com/devopswizard)
 
-- 💬 Ask me about **DevOps & AWS/Azure Cloud **
+- 💬 Ask me about **DevOps & AWS/Azure Cloud**
 
 - 📫 How to reach me **temelkarabacak@gmail.com**
 
